@@ -1,11 +1,11 @@
-# Hi there 👋 I'm Shubham Maddhesiya  
+# Hi there, I'm Shubham Maddhesiya  
 **Bioinformatics | Computational Biology | AI for Healthcare**
 
 I’m a Biotechnology graduate with deep interest in bioinformatics, antimicrobial resistance genomics, and computational data analysis. I build real-world research-oriented tools and analytical workflows that bridge biological insight with data science and machine learning.
 
 ---
 
-## 🎯 About Me
+## About Me
 
 - 🎓 **B.Sc. (Hons) Biotechnology** — Mahayogi Gorakhnath University, Gorakhpur (2025)  
 - 🧬 Strong foundation in **Biotechnology, Biology & Bioinformatics**  
@@ -19,15 +19,15 @@ I’m a Biotechnology graduate with deep interest in bioinformatics, antimicrobi
 | Domain | Level |
 |--------|-------|
 | Bioinformatics | ⭐⭐⭐⭐⭐☆ (5/10) |
-| Python | ⭐⭐☆☆☆ (2/10) |
-| Machine Learning | ⭐☆☆☆☆ (1/10) |
-| Data Analysis (pandas/visualization) | ⚙️ In progress |
+| Python | ⭐⭐☆☆☆ (6/10) |
+| Machine Learning | ⭐☆☆☆☆ (4/10) |
+| Data Analysis (pandas/visualization) |
 
 > I’m actively improving Python & ML skills to build reproducible biological analysis and research tools.
 
 ---
 
-## 📂 Projects & Research Highlights
+## Projects & Research Highlights
 
 ### 🔬 **AMR KnowledgeBase (Flagship Project)**
 A structured knowledgebase and analytical framework for studying **antimicrobial resistance genes** and genomic patterns across pathogens.  
@@ -38,20 +38,19 @@ This includes data collection, NCBI sequence processing, BLAST automation, visua
 - Automated BLAST search workflows using Biopython  
 - Exploratory data analysis on public genomic datasets  
 
-👉 Each project is documented with clean folder structures and README files — so recruiters and reviewers can quickly understand the work.
 
 ---
 
-## 📚 What I’m Working On
+## What I’m Working On
 
-- 📈 Improving Python proficiency with data science libraries (pandas, numpy, matplotlib)  
-- 📊 Solidifying foundation in bioinformatics pipelines (sequence alignment, AMR prediction tools)  
-- 🧬 Taking real genomic datasets through complete analysis workflows  
-- 📖 Preparing for MSc + research publications / preprints
+- Improving Python proficiency with data science libraries (pandas, numpy, matplotlib)  
+- Solidifying foundation in bioinformatics pipelines (sequence alignment, AMR prediction tools)  
+- Taking real genomic datasets through complete analysis workflows  
+- MSc + research publications
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Bioinformatics & Genomics:** BLAST, Biopython, FASTA processing  
 - **Data Analysis:** pandas, matplotlib, seaborn  
@@ -60,16 +59,11 @@ This includes data collection, NCBI sequence processing, BLAST automation, visua
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 I’m open to research collaborations, internships, and academic opportunities — especially in computational biology and AI driven bioinformatics.
 
-- ✉️ Email: *youremail@example.com*  
+- ✉️ Email: researcher.shubham@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/shubham-maddhesiya/  
-- 📊 GitHub Stats (optional): ![GitHub stats](https://github.com/<your-github-username>.github.io/github-stats.svg)
-
 ---
 
-## 💬 Why This Profile Matters
-
-This GitHub profile shows **my evolution from life sciences to computational research mindset** — highlighting consistent growth in analytical thinking, reproducible workflows, and domain-specific problem solving. It’s designed to reflect real **potential for MSc research, PhD readiness, and academic contributions**.
