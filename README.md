@@ -1,27 +1,31 @@
-# Hi there, I'm Shubham Maddhesiya  
+# Hi, I'm Shubham Maddhesiya  
 **Bioinformatics | Computational Biology | AI for Healthcare**
 
 I’m a Biotechnology graduate with deep interest in bioinformatics, antimicrobial resistance genomics, and computational data analysis. I build real-world research-oriented tools and analytical workflows that bridge biological insight with data science and machine learning.
+[Portfolio](https://shubham-maddhesiya-portfolio.vercel.app/)
 
 ---
 
 ## About Me
 
-- 🎓 **B.Sc. (Hons) Biotechnology** — Mahayogi Gorakhnath University, Gorakhpur (2025)  
-- 🧬 Strong foundation in **Biotechnology, Biology & Bioinformatics**  
-- 🧪 Currently focused on **AMR genomics, sequence analysis, and computational pipelines**  
-- 💡 Career goal: Become a **researcher & professor** with strong expertise in bioinformatics and AI-driven biological analysis
+- **B.Sc. (Hons) Biotechnology** — Mahayogi Gorakhnath University, Gorakhpur (2025)  
+- Strong foundation in **Biotechnology & Bioinformatics**  
+- Currently focused on **AMR genomics, sequence analysis, and computational pipelines**  
+- Career goal: Become a **researcher & professor** with strong expertise in bioinformatics and AI-driven biological analysis
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 | Domain | Level |
 |--------|-------|
-| Bioinformatics | ⭐⭐⭐⭐⭐☆ (5/10) |
-| Python | ⭐⭐☆☆☆ (6/10) |
-| Machine Learning | ⭐☆☆☆☆ (4/10) |
-| Data Analysis (pandas/visualization) |
+| Bioinformatics | (7/10) |
+| Python | (6/10) |
+| Machine Learning | (4/10) |
+| Dry Lab | (7/10) |
+| Wet Lab | (6/10) |
+| Reseach Skills | (2/10) |
+| Data Analysis (pandas/visualization) | (6/10) |
 
 > I’m actively improving Python & ML skills to build reproducible biological analysis and research tools.
 
@@ -29,14 +33,14 @@ I’m a Biotechnology graduate with deep interest in bioinformatics, antimicrobi
 
 ## Projects & Research Highlights
 
-### 🔬 **AMR KnowledgeBase (Flagship Project)**
+### **AMR KnowledgeBase (Flagship Project)**
 A structured knowledgebase and analytical framework for studying **antimicrobial resistance genes** and genomic patterns across pathogens.  
 This includes data collection, NCBI sequence processing, BLAST automation, visualization, and prototype pipeline creation.
 
-### 🧪 Other Projects
-- Python-based biological data parsing & visualization scripts  
-- Automated BLAST search workflows using Biopython  
-- Exploratory data analysis on public genomic datasets  
+### Other Projects
+- Bone Fracture Detection using CNN (X-ray images) [Quick Test](https://bone-fracture-detection-app-gzlsnihz3ynev2odzzju58.streamlit.app/#bone-fracture-detection-system)
+- BioGeneXplore web app for Gene, proteins Analysis [Quick Test](https://biogenexplorer-wfga9n7k42krfbkmjn9dvf.streamlit.app/)
+- Antimicrobial activity on Copper [literature review](https://github.com/shubham-bioai/Antimicrobial-Activity-on-Copper-Study)
 
 
 ---
