@@ -2,7 +2,7 @@
 **Bioinformatics | Computational Biology | AI for Healthcare**
 
 I’m a Biotechnology graduate with deep interest in bioinformatics, antimicrobial resistance genomics, and computational data analysis. I build real-world research-oriented tools and analytical workflows that bridge biological insight with data science and machine learning.
-[Portfolio](https://shubham-maddhesiya-portfolio.vercel.app/)
+- [Portfolio](https://shubham-maddhesiya-portfolio.vercel.app/)
 
 ---
 
