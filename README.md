@@ -21,10 +21,10 @@ I’m a Biotechnology graduate with deep interest in bioinformatics, antimicrobi
 |--------|-------|
 | Bioinformatics | (7/10) |
 | Python | (6/10) |
-| Machine Learning | (4/10) |
+| Machine Learning | (5/10) |
 | Dry Lab | (7/10) |
 | Wet Lab | (6/10) |
-| Reseach Skills | (2/10) |
+| Reseach Skills | (6/10) |
 | Data Analysis (pandas/visualization) | (6/10) |
 
 > I’m actively improving Python & ML skills to build reproducible biological analysis and research tools.
