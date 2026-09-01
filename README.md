@@ -25,7 +25,7 @@ Biotechnology graduate (2025) with hands-on laboratory research and industrial t
 
 | Degree |Duration |
 |---|---|
-| M.Sc — Biotechnology | Jul 2026 – Aug 2028 *(Ongoing)* |
+| M.Sc — Biotechnology | Jul 2026 – Aug 2028 |
 | B.Sc — Biotechnology | Jul 2022 – Aug 2025 |
 
 <br>
