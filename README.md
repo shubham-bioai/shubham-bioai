@@ -23,10 +23,10 @@ Biotechnology graduate (2025) with hands-on laboratory research and industrial t
 
 ## 🎓 Education
 
-| Degree | Institution | Duration |
+| Degree |Duration |
 |---|---|---|
-| M.Sc — Biotechnology | Central University of Jammu | Jul 2026 – Aug 2028 *(Ongoing)* |
-| B.Sc — Biotechnology | Mahayogi Gorakhnath University, Gorakhpur | Jul 2022 – Aug 2025 |
+| M.Sc — Biotechnology | Jul 2026 – Aug 2028 *(Ongoing)* |
+| B.Sc — Biotechnology | Jul 2022 – Aug 2025 |
 
 <br>
 
