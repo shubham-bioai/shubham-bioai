@@ -57,7 +57,7 @@ Biotechnology graduate (2025) with hands-on laboratory research and industrial t
 
 ## 📄 Publications & Presentations
 
-**Antimicrobial Activity of Copper on Microorganisms** — *In Progress*
+**Antimicrobial Activity of Copper on Microorganisms** —
 Undergraduate research project on the antimicrobial mechanism of copper; findings are being prepared for submission as a paper.
 
 **M.Sc Research Output** — *Forthcoming*
